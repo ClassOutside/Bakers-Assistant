@@ -18,3 +18,7 @@ Blender add-on  to assist with baking and saving diffuse and normal maps using a
 
 After a moment the textures should be baked, and the source and cage meshes will be hidden in the viewport.
 The materials should be saved to a 'materials' folder in the same directory as your blend file.
+
+# Related Video
+This add-on and its intent is further described in the following video: 
+https://youtu.be/toCLjZ0yKGg
